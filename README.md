@@ -28,9 +28,3 @@
 | ![Upload](./Demo1.png) | ![Export](./Demo2.png) |
 
 ---
-
-## 👤 Author
-**Praveen Kumar V** <br>
-*B.E. Artificial Intelligence and Machine Learning* <br>
-[Mail ID](mailto:praveenkumarv0811@gmail.com) <br>
-[Portfolio](https://buildwithpraveen.vercel.app) | [LinkedIn](https://www.linkedin.com/in/praveenkumar-v08/)
